@@ -1,8 +1,8 @@
-# Coffee-Site
+#Coffee-Site
 
-Этот проект представляет собой веб-сайт, посвященный проектам Кофе.
+This project is a website dedicated to Coffee projects.
 
-Сайт написан на HTML, CSS.
+The site is written in HTML, CSS.
 
-Чтобы использовать этот сайт, вам необходимо скачать расширение «Live Server» и вы сможете увидеть, как работает этот сайт. Если вам лень делать эти манипуляции, вы можете посмотреть обзор сайта в моем телеграм-канале:
+To use this site, you need to download the Live Server extension and you will be able to see how this site works. If you are too lazy to do these manipulations, you can watch a review of the site in my Telegram channel:
 https://t.me/MoonquitDeveloper/42
